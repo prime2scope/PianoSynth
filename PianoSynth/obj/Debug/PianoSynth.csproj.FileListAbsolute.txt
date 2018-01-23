@@ -1,0 +1,109 @@
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+I:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\vs_files_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\Interop.WMPLib.dll
+C:\Users\Michelle\Desktop\CSCI 473 - .NET Programming\Assignments\Assign 5\vs_file_copy_a5\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.ResolveComReference.cache
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.dll
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.xml
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\Interop.WMPLib.dll
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.ResolveComReference.cache
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+\\Client\I$\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.dll
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.xml
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\Interop.WMPLib.dll
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.ResolveComReference.cache
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+D:\Desktop Shortcut Folders\School Stuff\CSCI 473\Assignments\Assign 5\SUBMITTED\PianoSynth_All\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe.config
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\PianoSynth.exe
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\PianoSynth.pdb
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.dll
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\CodeProjects\PianoSynth\PianoSynth\bin\Debug\Microsoft.DirectX.xml
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\Interop.WMPLib.dll
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.ResolveComReference.cache
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.exe
+D:\CodeProjects\PianoSynth\PianoSynth\obj\Debug\PianoSynth.pdb
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\PianoSynth.exe.config
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\PianoSynth.exe
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\PianoSynth.pdb
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.dll
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\bin\Debug\Microsoft.DirectX.xml
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.csprojResolveAssemblyReference.cache
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\Interop.WMPLib.dll
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.csproj.ResolveComReference.cache
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.Form1.resources
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.Properties.Resources.resources
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.csproj.GenerateResource.Cache
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.csproj.CoreCompileInputs.cache
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.exe
+D:\CodeProjects\PianoSynth\RENAME\PianoSynth\obj\Debug\PianoSynth.pdb
