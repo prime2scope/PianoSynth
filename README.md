@@ -2,13 +2,11 @@
 A simple Piano Synthesizer created using a windows form application in C#. 
 Play the piano with your QWERTY keyboard, or by clicking the keys on the GUI.
 
-Purpose: 
-This application allows you to play a "Synthesized Piano"
+### Purpose: 
+This application allows you to play a "Synthesized Piano", it was created as a class project where we were told to make something interesting/useful with a C# form and this is what I chose.
 
-(we were told to create something interesting/useful with a C# form and this is what I chose)
-
-You can control the Piano by Clicking the Keys OR you can use your
-keyboard to play the piano.
+### Controls
+You can control the Piano by Clicking the Keys OR you can use your keyboard to play the piano.
 
 The White Keys on the Left start at ZXCVBNM then move to QWERTYUIOP
 The Black Keys are controlled by the Keys inbetween each of the keys 
