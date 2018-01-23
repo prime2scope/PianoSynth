@@ -1,5 +1,5 @@
 # PianoSynth
-A simple Piano Synthesizer created using a windows form application in C#. 
+A simple Piano Synthesizer created using a **Windows Form Application** in C#. 
 Play the piano with your QWERTY keyboard, or by clicking the keys on the GUI.
 
 ### Screenshot
@@ -10,11 +10,11 @@ Play the piano with your QWERTY keyboard, or by clicking the keys on the GUI.
 This application allows you to play a "Synthesized Piano", it was created as a class project where we were told to make something interesting/useful with a C# form and this is what I chose.
 
 ### Controls
-You can control the Piano by Clicking the Keys OR you can use your keyboard to play the piano.
+You can control the piano by clicking the keys **OR** you can use your keyboard to play the piano.
 
 - The ***White*** Keys on the Left start at **ZXCVBNM** then move to **QWERTYUIOP**
-- The ***Black*** Keys are controlled by the Keys inbetween each of the keys listed above, 
-    - eg - **SD, GHJ, 23, 567, 90.**
+- The ***Black*** Keys are controlled by the Keys inbetween each of the keys listed above 
+    - **SD, GHJ, 23, 567, 90.**
 
 You can control the **Volume** of the sounds, and you can Also change the 
 **Octave** of the Keyboard between:
@@ -25,7 +25,7 @@ You can control the **Volume** of the sounds, and you can Also change the
 The **Max Duration** of the sine wave can also be controlled, and you can reset everything to **default** with the ***Reset button***.
 
 
-### Note
+## Note
 
 **Windows Media Player** was required to play **MORE** than 1 Sound at a time, this required the Sine Waves to be output as **Audio Files**.
 
