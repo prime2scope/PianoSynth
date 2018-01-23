@@ -1,5 +1,5 @@
 # PianoSynth
-A simple Piano Synthesizer created using a **Windows Form Application** in C#. 
+A simple **Piano Synthesizer** created using a Windows Form Application in C#. 
 Play the piano with your QWERTY keyboard, or by clicking the keys on the GUI.
 
 ### Screenshot
