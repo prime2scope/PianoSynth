@@ -7,7 +7,7 @@ Play the piano with your QWERTY keyboard, or by clicking the keys on the GUI.
 ![](https://i.imgur.com/ADacxdx.png)
 
 ### Purpose
-This application allows you to play a "Synthesized Piano", it was created as a class project where we were told to make something interesting/useful with a C# form and this is what I chose.
+This application allows you to play a "Synthesized Piano", it was created as a class project where we were told to make something interesting/useful with a C# form - this is what I chose to make.
 
 ### Controls
 You can control the piano by clicking the keys **OR** you can use your keyboard to play the piano.
